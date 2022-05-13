@@ -1,3 +1,6 @@
+![TheBlackPill](https://user-images.githubusercontent.com/9572668/168313587-e022f990-14ba-47ec-8a6c-7edece7d2238.png)
+
+
 # TheBlackPill
 The Black Pill hashrate enlarger Tool v1.0
 
