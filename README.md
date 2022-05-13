@@ -11,10 +11,10 @@ Should work on all LHR models with >=8GB memory
 
 Usage:
 
-TheBlackPill.exe  (launch for all cuda devices in the rig
-TheBlackPill.exe "0,1" (launch on device 0 and 1)
-TheBlackPill.exe "0,3" (launch on device 0 and 3)
-TheBlackPill.exe "0,1,2,3,4" (launch on device 0-4)
+TheBlackPill.exe  (launch for all cuda devices in the rig                           
+TheBlackPill.exe "0,1" (launch on device 0 and 1)                                   
+TheBlackPill.exe "0,3" (launch on device 0 and 3)                                
+TheBlackPill.exe "0,1,2,3,4" (launch on device 0-4)                         
 ...
 
 After the launch keep the window open and the program running.
