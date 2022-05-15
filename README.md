@@ -17,6 +17,6 @@ TheBlackPill.exe "0,3" (launch on device 0 and 3)
 TheBlackPill.exe "0,1,2,3,4" (launch on device 0-4)                         
 ...
 
-After the launch keep the window open and the program running.
+After the launch keep the window open and let the program keep running.
 
 Then launch your favorite mining software
