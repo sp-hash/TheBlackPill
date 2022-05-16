@@ -17,4 +17,6 @@ https://github.com/sp-hash/TheBlackPill/releases
 
 This software was made to be run on miningsoftware that doesn't have a 100% LHR unlock feature implemented. Team Black Miner, ccminer, Spminer, ethminer,  Phoenixminer, Claymores miner, nanominer, miniz, bminer, tt-miner, verthashminer and older versions of Gminer, t-rex, lolminer, nbminer. 
 
+And any future program that does random memory access that trigger the LHR feature of the NVIDIA GPUS
+
 It will never improve the performance more than 100% unlock.
