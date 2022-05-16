@@ -15,4 +15,4 @@ https://github.com/sp-hash/TheBlackPill
 
 ## Is a 120% unlock possible
 
-This software was made to be run on miningsoftware that doesn't have a 100% LHR unlock feature implemented. Team Black Miner, Spminer, Phoenixminer, Claymore miner, ccminer, mi and older versions of Gminer, t-rex, lolminer. and it will never improve the performance more than 100% unlock.
+This software was made to be run on miningsoftware that doesn't have a 100% LHR unlock feature implemented. Team Black Miner, Spminer, Phoenixminer, Claymores miner, ccminer, older versions of Gminer, t-rex, lolminer, nbminer. And it will never improve the performance more than 100% unlock.
