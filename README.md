@@ -18,9 +18,9 @@ TheBlackPill.exe "0,1,2,3,4" (launch on device 0-4)
 
 Usage (linux):
 
-sudo ./start.sh  (launch for all cuda devices in the rig)
-sudo ./start.sh "0"  (launch for device 0)
-sudo ./start.sh "0,1,4"  (launch for device 0,1 and 4)
+sudo ./start.sh  (launch for all cuda devices in the rig)              
+sudo ./start.sh "0"  (launch for device 0)                 
+sudo ./start.sh "0,1,4"  (launch for device 0,1 and 4)                        
 ...
 
 After the launch keep the window open and let the program keep running.
