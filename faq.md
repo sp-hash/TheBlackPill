@@ -19,4 +19,4 @@ This software was made to be run on miningsoftware that doesn't have a 100% LHR 
 
 And any future program that does random memory access that trigger the LHR feature of the NVIDIA GPUS
 
-It will never improve the performance more than 100% unlock.
+It will never improve the performance more than 100% unlock. It's not Magic...
