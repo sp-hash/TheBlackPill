@@ -11,7 +11,7 @@ Yes. the program starts a mining connection in with very low priority to a pool 
 The program is mining to a miningpool, and can therefore have false positives on antivirus software. Mostly on windows.
 Make sure that you download the software from the correct url, 
 
-https://github.com/sp-hash/TheBlackPill
+https://github.com/sp-hash/TheBlackPill/releases
 
 ## Is a 120% unlock possible
 
