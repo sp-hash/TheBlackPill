@@ -23,6 +23,6 @@ sudo ./start.sh "0"  (launch for device 0)
 sudo ./start.sh "0,1,4"  (launch for device 0,1 and 4)                        
 ...
 
-After the launch keep the window open and let the program keep running.
+After the launch keep the window open and keep the program running.
 
 Then launch your favorite mining software
