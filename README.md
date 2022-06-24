@@ -4,7 +4,7 @@
 # TheBlackPill
 The Black Pill hashrate enlarger Tool
 
-This is a NVIDIA GPU LHR unlock software created for the 511.xx driver or newer. (510.xx on linux)
+This is a NVIDIA GPU LHR unlock software created for the 511.xx - 512.95 driver. (510.xx  on linux)
 The program needs to be run with admin rights.
 
 Should work on all LHR models with >=8GB memory
