@@ -23,6 +23,11 @@ sudo ./start.sh "0"  (launch for device 0)
 sudo ./start.sh "0,1,4"  (launch for device 0,1 and 4)                        
 ...
 
+hiveos installation guide
+
+https://www.reddit.com/r/acidpool/comments/xhjasb/mine_vtc_at_full_hashrate_on_hiveos_using_lhr/
+
+
 After the launch keep the window open and keep the program running.
 
 Then launch your favorite mining software
